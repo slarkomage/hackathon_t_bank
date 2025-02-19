@@ -1,0 +1,14 @@
+fastapi[all]
+requests
+uvicorn
+asyncpg
+databases
+psycopg2-binary
+scrapingbee
+pymorphy2
+tqdm
+spacy
+bs4
+pyairtable
+asyncio
+PyPDF2

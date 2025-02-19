@@ -1,0 +1,15 @@
+grpcio==1.67.0
+protobuf==3.19.4
+googleapis-common-protos==1.6.0
+httpx[http2]==0.23.0
+opuslib==3.0.1
+PyAudio==0.2.11
+mutagen==1.45.1
+python-dotenv==1.0.1
+pydub==0.25.1
+openai==1.35.1
+pymongo
+streamlit
+fastapi
+uvicorn
+pydantic
